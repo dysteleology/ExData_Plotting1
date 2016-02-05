@@ -1,3 +1,7 @@
+## Setup
+
+Before running the scripts to generate the png files please extract the zip file contained within the data directory as scripts assume the file is available!
+
 ## Introduction
 
 This assignment uses data from
